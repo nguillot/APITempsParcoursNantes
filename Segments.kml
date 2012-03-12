@@ -1,0 +1,1660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Segments</name>
+	<open>1</open>
+	<StyleMap>
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed">
+		<LineStyle>
+			<color>ffff1125</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed100">
+		<LineStyle>
+			<color>ffff2821</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<LineStyle>
+			<color>ffff6a48</color>
+			<width>6.1</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed120">
+		<LineStyle>
+			<color>ffff162a</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed51">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed121</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="roadStyle70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roadStyle40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roadStyle20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed18">
+		<LineStyle>
+			<color>ffff4411</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="roadStyle90">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roadStyle80</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roadStyle110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed00">
+		<LineStyle>
+			<color>ffff352b</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed6">
+		<LineStyle>
+			<color>ffff5332</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="roadStyle31">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed000">
+		<LineStyle>
+			<color>ffff162a</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed19">
+		<LineStyle>
+			<color>ffff5e2c</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed2">
+		<LineStyle>
+			<color>ffff1e1d</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed33</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed150</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="roadStyle1">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin21">
+		<LineStyle>
+			<color>ffff2723</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="roadStyle3">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed27</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed3">
+		<LineStyle>
+			<color>ffff2326</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin24">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff2723</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed4">
+		<LineStyle>
+			<color>ffff2326</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed5">
+		<LineStyle>
+			<color>ffff2f2a</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed40">
+		<LineStyle>
+			<color>ffff3c1a</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<LineStyle>
+			<color>ffff5047</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed121">
+		<LineStyle>
+			<color>ffff162a</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed17">
+		<LineStyle>
+			<color>ffff252a</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed11">
+		<LineStyle>
+			<color>ffff3c1a</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="roadStyle41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roadStyle31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roadStyle15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff5047</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed8">
+		<LineStyle>
+			<color>ffff4313</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed50">
+		<LineStyle>
+			<color>ffff4411</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="roadStyle14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roadStyle61</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roadStyle50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="roadStyle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roadStyle5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roadStyle4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="roadStyle61">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed9">
+		<LineStyle>
+			<color>ffff1125</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="roadStyle130">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="roadStyle110">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="roadStyle80">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="roadStyle00">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed25">
+		<LineStyle>
+			<color>ffff3c1a</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed10">
+		<LineStyle>
+			<color>ffff4921</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="roadStyle20">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="roadStyle2">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed12">
+		<LineStyle>
+			<color>ffff4921</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff6a48</color>
+			<width>6.1</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed122">
+		<LineStyle>
+			<color>ffff4411</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed60">
+		<LineStyle>
+			<color>ffff2821</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed21">
+		<LineStyle>
+			<color>ffff1e1d</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="roadStyle6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roadStyle3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roadStyle2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="roadStyle120">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="roadStyle7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roadStyle1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roadStyle</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed130</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed500">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed33">
+		<LineStyle>
+			<color>ffff3644</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed26">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed140</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed290</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed15">
+		<LineStyle>
+			<color>ffff2f2a</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="roadStyle30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roadStyle60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roadStyle120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="roadStyle40">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed80">
+		<LineStyle>
+			<color>ffff3c1a</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="roadStyle">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="roadStyle50">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed130">
+		<LineStyle>
+			<color>ffff4313</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed34</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="failed90">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="roadStyle60">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed320">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="roadStyle15">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed200">
+		<LineStyle>
+			<color>ffff252a</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed23">
+		<LineStyle>
+			<color>ffff4411</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed22">
+		<LineStyle>
+			<color>ffff211a</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed140">
+		<LineStyle>
+			<color>ffff5332</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed150">
+		<LineStyle>
+			<color>ffff3644</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Style id="roadStyle4">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed001">
+		<LineStyle>
+			<color>ffff162a</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed27">
+		<LineStyle>
+			<color>ffff5e2c</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed220</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed24">
+		<LineStyle>
+			<color>ffff5332</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed29">
+		<LineStyle>
+			<color>ffff451d</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed34">
+		<LineStyle>
+			<color>ffff211a</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="roadStyle5">
+		<LineStyle>
+			<color>7fcf0064</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="roadStyle100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#roadStyle00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#roadStyle130</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed290">
+		<LineStyle>
+			<color>ffff5332</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="failed220">
+		<LineStyle>
+			<color>ffff352b</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed240">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed122</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed35">
+		<LineStyle>
+			<color>ffff451d</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="failed36">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed35</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>s86</name>
+		<open>1</open>
+		<styleUrl>#failed31</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.544141823116284,47.20034771127622,0 -1.544444,47.200832,0 -1.544369,47.200996,0 -1.5445,47.20107300000001,0 -1.54725,47.205338,0 -1.547676,47.205929,0 -1.548213,47.206585,0 -1.548528,47.207039,0 -1.548744,47.207371,0 -1.54938,47.20837,0 -1.549625,47.208698,0 -1.549754749043999,47.20882253684828,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s1</name>
+		<styleUrl>#failed13</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.511133,47.221367,0 -1.513627,47.22079500000001,0 -1.515278,47.22052000000001,0 -1.516256,47.22052000000001,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s10</name>
+		<styleUrl>#failed36</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.53864,47.206032,0 -1.54331,47.21175,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s12</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.59205,47.19792200000001,0 -1.58479,47.198582,0 -1.58231,47.199051,0 -1.57801,47.20055,0 -1.57589,47.202251,0 -1.57425,47.20539099999999,0 -1.57309,47.206539,0 -1.572783,47.206619,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s13</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.59616,47.209431,0 -1.59224,47.209869,0 -1.59052,47.209782,0 -1.58834,47.209141,0 -1.5868,47.208591,0 -1.5771,47.206451,0 -1.57363,47.206841,0 -1.573051,47.206573,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s14</name>
+		<styleUrl>#failed101</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.566781806603583,47.20898191921076,0 -1.56648666955797,47.20908792114053,0 -1.566395875837389,47.20917902552094,0 -1.563404459822931,47.21004620561574,0 -1.562743958454802,47.2100942689984,0 -1.56235473894431,47.21007113739956,0 -1.561604571367423,47.20989264115997,0 -1.56137524735956,47.20984677776124,0 -1.56125923458822,47.20996037576909,0 -1.55943,47.21075099999999,0 -1.558883592462642,47.21127039647803,0 -1.558748055389407,47.21129032256282,0 -1.55869338403971,47.21140221120122,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s15</name>
+		<styleUrl>#failed14</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.570131279101563,47.19292456413839,0 -1.568480743559552,47.19300014129396,0 -1.566820199205621,47.19295522465484,0 -1.566334559693257,47.19291186829016,0 -1.563395413426379,47.1925712327981,0 -1.563216,47.192467,0 -1.563111,47.19241,0 -1.563022,47.192383,0 -1.562942,47.19237499999999,0 -1.56276,47.192371,0 -1.562652624468228,47.19239892759432,0 -1.562493078982176,47.19255881287848,0 -1.562535358725462,47.19270459690149,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s16</name>
+		<styleUrl>#failed0</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.562556,47.192703,0 -1.562657270748469,47.19281038281833,0 -1.562679,47.192959,0 -1.56162,47.19913100000001,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s17</name>
+		<styleUrl>#failed20</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.551468529757251,47.20380429690898,0 -1.554239,47.205193,0 -1.554627,47.205753,0 -1.555696,47.210503,0 -1.556618,47.21159399999999,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s18</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.5532,47.185581,0 -1.553088,47.18572200000001,0 -1.551317,47.18827400000001,0 -1.55123,47.18849899999999,0 -1.551105,47.18881199999999,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s19</name>
+		<styleUrl>#failed240</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.551101805344354,47.18883177895844,0 -1.55130585984559,47.18879372299065,0 -1.551784990575831,47.18911875490469,0 -1.551980531880499,47.1891692006686,0 -1.552036124007931,47.18929565230752,0 -1.551997674917389,47.18968669551022,0 -1.552036282809073,47.19004178920598,0 -1.552229640524961,47.19030862677651,0 -1.552520489450125,47.19059272905635,0 -1.553487705243383,47.19110109663425,0 -1.553850807866501,47.19147133756509,0 -1.553777122167589,47.19153067881522,0 -1.553728018156981,47.19161669719149,0 -1.553831146637007,47.19167711982509,0 -1.553894938925209,47.19168075033711,0 -1.554066860575505,47.19209005415209,0 -1.554099055969046,47.19221583327861,0 -1.55403097491719,47.19230864942726,0 -1.554073448994125,47.19245365541703,0 -1.554430435187921,47.19251747212454,0 -1.554591912876022,47.19241300818351,0 -1.557805001083441,47.19232058834502,0 -1.562095132564087,47.19260430313337,0 -1.562564,47.192703,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s2</name>
+		<styleUrl>#failed7</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.5163,47.22050900000001,0 -1.51672,47.220219,0 -1.51605,47.21859,0 -1.51618,47.217861,0 -1.51682,47.217468,0 -1.51852,47.21675100000001,0 -1.52115,47.21583900000001,0 -1.52456,47.214779,0 -1.52806,47.213741,0 -1.5301,47.213539,0 -1.53071,47.21339,0 -1.533687,47.213192,0 -1.53458,47.213219,0 -1.536348,47.213154,0 -1.53647,47.213169,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s20</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.551113,47.18881199999999,0 -1.550902,47.189552,0 -1.550513,47.190296,0 -1.549668,47.191116,0 -1.54907,47.191448,0 -1.547943,47.19152099999999,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s21</name>
+		<open>1</open>
+		<styleUrl>#failed51</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.54162962138794,47.19816263937575,0 -1.54220056741015,47.1980033345002,0 -1.542628784414276,47.19811501355833,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s22</name>
+		<styleUrl>#0</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.546986,47.188148,0 -1.547259,47.188889,0 -1.547428,47.189465,0 -1.547586,47.190258,0 -1.547919,47.191528,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s23</name>
+		<styleUrl>#0</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.52525308855729,47.1817394389533,0 -1.525047450573199,47.18305951967169,0 -1.524979309127533,47.18334934290856,0 -1.524956752631562,47.18345958311577,0 -1.524732730034319,47.18385998768266,0 -1.52456,47.18438,0 -1.524632,47.18477200000001,0 -1.524637,47.18477200000001,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s24</name>
+		<styleUrl>#5</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.524679090230771,47.18483109445523,0 -1.524894241064809,47.18475558408168,0 -1.527584590894944,47.1863351994975,0 -1.530611093469338,47.18811730086086,0 -1.530747974636739,47.18820202888644,0 -1.533414697385852,47.19044573766305,0 -1.533869541702363,47.19093971806561,0 -1.534759105704173,47.19172230073396,0 -1.534967208445492,47.19202289882201,0 -1.536343,47.195656,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s25</name>
+		<styleUrl>#2</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.53631,47.19566,0 -1.540017288495672,47.19697098993092,0 -1.540224752252646,47.19711593457438,0 -1.540414995717617,47.19717630951298,0 -1.540913224294852,47.19742978718126,0 -1.541085664616134,47.19758843683334,0 -1.541230739662081,47.19799188023356,0 -1.541146749427973,47.1981095730486,0 -1.541323957347541,47.19822845164636,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s26</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.52467,47.18478000000001,0 -1.52376,47.18536,0 -1.52298,47.18578000000001,0 -1.5227,47.185768,0 -1.52205,47.18539,0 -1.52143,47.185429,0 -1.52143,47.185619,0 -1.52163,47.18565,0 -1.52241,47.18637799999999,0 -1.52642,47.190811,0 -1.52859,47.193451,0 -1.528473,47.193703,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s27</name>
+		<styleUrl>#4</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.532894873339854,47.19911938532152,0 -1.532962799829567,47.19916831584862,0 -1.53503,47.201599,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s28</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.516697,47.18967800000001,0 -1.51768,47.18972399999999,0 -1.517878,47.189766,0 -1.518088,47.189709,0 -1.518746,47.189816,0 -1.526882,47.192474,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s29</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.52687,47.19247099999999,0 -1.52695,47.19264999999999,0 -1.527143,47.192879,0 -1.528478,47.193699,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s30</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.526871,47.192459,0 -1.530092,47.193531,0 -1.5305,47.193645,0 -1.536283,47.195679,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s31</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.52327,47.204948,0 -1.52451,47.204639,0 -1.52683,47.203819,0 -1.52854,47.202961,0 -1.52973,47.20243799999999,0 -1.53045,47.20188900000001,0 -1.53118,47.201439,0 -1.533446,47.20069899999999,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s32</name>
+		<styleUrl>#</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.53344,47.200687,0 -1.533229409577316,47.2004095025483,0 -1.532836579354225,47.19998501889366,0 -1.532786604935532,47.19989216527266,0 -1.53247885607173,47.1997921358717,0 -1.532533354106045,47.19969348847448,0 -1.532447926443251,47.19959798617518,0 -1.532718764038112,47.1992179574473,0 -1.53288,47.19912000000001,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s33</name>
+		<styleUrl>#failed90</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.53344,47.200695,0 -1.534994715616034,47.20002391118329,0 -1.535199598247424,47.19984527075702,0 -1.538759334685983,47.19901471791731,0 -1.540383687347311,47.19858178743779,0 -1.541431846735615,47.19824627312716,0 -1.541626347422581,47.19815486582271,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s34</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.591934,47.221798,0 -1.585554,47.222252,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s35</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.585554,47.222252,0 -1.585346,47.222179,0 -1.584983,47.222206,0 -1.582065,47.22256100000001,0 -1.58034,47.222435,0 -1.578848,47.221897,0 -1.577824,47.22153900000001,0 -1.577188,47.221104,0 -1.576112,47.22069900000001,0 -1.57484,47.220505,0 -1.573712,47.22031400000001,0 -1.573479,47.2202,0 -1.569886,47.219139,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s36</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.56983,47.21912,0 -1.56958,47.21833,0 -1.56954,47.218029,0 -1.569114,47.217747,0 -1.567966,47.217148,0 -1.56379,47.215031,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s37</name>
+		<styleUrl>#0</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.57714,47.23224999999999,0 -1.57537,47.22898900000001,0 -1.58058,47.228008,0 -1.58146,47.22777199999999,0 -1.58202,47.227501,0 -1.58263,47.227039,0 -1.58314,47.226471,0 -1.58321,47.226189,0 -1.58526,47.22261,0 -1.58554,47.222439,0 -1.58554,47.222252,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s39</name>
+		<styleUrl>#1</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.572543404493549,47.22965651078886,0 -1.572567662610245,47.22952824014026,0 -1.57235162067937,47.22949409849501,0 -1.570154735771,47.227543412947,0 -1.568298,47.226048,0 -1.56448,47.223331,0 -1.56308,47.22166799999999,0 -1.56335,47.22142,0 -1.56275,47.22024199999999,0 -1.56198,47.220169,0 -1.56142,47.21907,0 -1.5594,47.217861,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s4</name>
+		<styleUrl>#2</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.51633,47.22053100000001,0 -1.516768,47.220932,0 -1.5177,47.22205,0 -1.51824,47.222599,0 -1.52264,47.22576099999999,0 -1.52626,47.228439,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s40</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.576388,47.25229600000001,0 -1.57756,47.247181,0 -1.57682,47.245991,0 -1.57259,47.240631,0 -1.56888,47.236801,0 -1.56599,47.23334100000001,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s41</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.565994,47.23333000000001,0 -1.568368,47.23181900000001,0 -1.572021,47.229801,0 -1.572578,47.22963699999999,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s42</name>
+		<styleUrl>#7</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.556784,47.241135,0 -1.560523,47.239845,0 -1.563304,47.237202,0 -1.563524,47.234222,0 -1.565928,47.233326,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s43</name>
+		<styleUrl>#16</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.55487815887064,47.2296924973745,0 -1.556338950781694,47.23064770906119,0 -1.556472158291297,47.23077141312815,0 -1.556470073488456,47.23290398342927,0 -1.556497712441453,47.23315882749286,0 -1.556490762331675,47.24091398455666,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s44</name>
+		<styleUrl>#9</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.556496126781399,47.24091099259963,0 -1.556648156239212,47.24108456920193,0 -1.556446,47.243298,0 -1.55639,47.243622,0 -1.556289,47.24397999999999,0 -1.556178,47.24472800000001,0 -1.555623,47.245636,0 -1.555448,47.246365,0 -1.555327,47.246559,0 -1.555364,47.246693,0 -1.554394,47.249374,0 -1.553174,47.25246400000001,0 -1.552615383971556,47.25392274460122,0 -1.552545820976112,47.25432394164417,0 -1.552591858946378,47.25475201191653,0 -1.552786858020426,47.25525506737044,0 -1.553024466340875,47.25557094456427,0 -1.55323510482509,47.25581049443171,0 -1.553804881758984,47.25620037442853,0 -1.554878921075329,47.25661815102266,0 -1.55581733492032,47.25699598612882,0 -1.556270338715395,47.25722468540085,0 -1.556628706654509,47.25754347021325,0 -1.556889,47.25785100000001,0 -1.557167,47.258549,0 -1.557287,47.259369,0 -1.557185,47.259514,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s45</name>
+		<styleUrl>#13</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.557163,47.259514,0 -1.55661,47.259544,0 -1.556247,47.25983,0 -1.555842,47.259907,0 -1.554005,47.26046,0 -1.552964,47.260822,0 -1.552685,47.26093300000001,0 -1.552395,47.261055,0 -1.548767,47.262642,0 -1.547960148285971,47.26341694576782,0 -1.547340455388584,47.2639765438863,0 -1.546862781653677,47.26459100565568,0 -1.546257309412223,47.26563216064293,0 -1.545862,47.266888,0 -1.545748,47.267872,0 -1.546047,47.270657,0 -1.547001,47.273941,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s46</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.565655,47.233124,0 -1.565574,47.233315,0 -1.563418,47.23407700000001,0 -1.563151,47.234219,0 -1.563348,47.234447,0 -1.563244,47.23703799999999,0 -1.560856,47.239594,0 -1.557055,47.24091,0 -1.556626,47.24089799999999,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s47</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.565667,47.233105,0 -1.56605,47.23354,0 -1.569098,47.237171,0 -1.572558,47.240677,0 -1.574176,47.242599,0 -1.576938,47.24639500000001,0 -1.577391,47.247356,0 -1.576826,47.250202,0 -1.57624,47.252853,0 -1.576254,47.253498,0 -1.576505,47.25433,0 -1.577119,47.255016,0 -1.577803,47.255791,0 -1.581723,47.260193,0 -1.582295,47.260967,0 -1.583578,47.262421,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s48</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.542549,47.227135,0 -1.535875,47.233829,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s49</name>
+		<styleUrl>#15</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.5358657195146,47.23381884148412,0 -1.533217651801783,47.2368775127629,0 -1.531131,47.239639,0 -1.529945,47.240906,0 -1.527142,47.24331300000001,0 -1.520703,47.24897399999999,0 -1.516948,47.252201,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s5</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.526289,47.228432,0 -1.526489,47.228367,0 -1.528205,47.22715400000001,0 -1.528748,47.22656600000001,0 -1.531931,47.22007399999999,0 -1.532137,47.21991000000001,0 -1.533108,47.219727,0 -1.537505,47.218887,0 -1.543824,47.217564,0 -1.54508,47.217068,0 -1.545571,47.21688499999999,0 -1.545898,47.216557,0 -1.546141,47.21647600000001,0 -1.546175,47.21634700000001,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s50</name>
+		<styleUrl>#17</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.542521749606289,47.22710200545782,0 -1.545085916488683,47.22749933250254,0 -1.544751647263294,47.2284416836905,0 -1.544349964876501,47.22969896658155,0 -1.543924388505488,47.23031645253545,0 -1.543484756814196,47.23079322048354,0 -1.543043,47.231197,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s51</name>
+		<styleUrl>#failed320</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.541235870812455,47.23455692561075,0 -1.541210093318526,47.23490811281949,0 -1.541115281559112,47.2354600246785,0 -1.540983383720791,47.23580534468659,0 -1.540885543768561,47.23596453410793,0 -1.540443641651832,47.23629602329451,0 -1.540166080265177,47.23657225846451,0 -1.538347054295636,47.23887428832255,0 -1.536677607534274,47.24016717520261,0 -1.535402991634057,47.24109706635815,0 -1.534333984848595,47.24235325021265,0 -1.533838335140248,47.2436976993394,0 -1.533617285101825,47.244427211624,0 -1.53288559920929,47.2456329808695,0 -1.531996354911583,47.24666723706918,0 -1.531028942560047,47.24753440171555,0 -1.530291847715066,47.24855377069304,0 -1.529897378944318,47.24947014672971,0 -1.52994592555517,47.25047372261006,0 -1.530010686379543,47.2512606079507,0 -1.529803612096502,47.25286173291757,0 -1.529752426453278,47.25338057981322,0 -1.529750018433405,47.25393578720533,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s52</name>
+		<styleUrl>#7</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.54302731764874,47.23121136440447,0 -1.54245318280861,47.23181482308559,0 -1.542382909755783,47.23221872512116,0 -1.542349804196729,47.23317621633129,0 -1.542202081869628,47.23340979821126,0 -1.541796742196652,47.23372971869748,0 -1.541243803616649,47.23456041439108,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s53</name>
+		<styleUrl>#2</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.541245742144027,47.2345602108832,0 -1.535854543860538,47.23383268305299,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s54</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.533416,47.236862,0 -1.536158,47.233662,0 -1.542497,47.22722600000001,0 -1.546088,47.222771,0 -1.54755,47.22158799999999,0 -1.549589,47.21978,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s55</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.5496,47.219791,0 -1.55109,47.22156099999999,0 -1.55255,47.221081,0 -1.5545,47.2202,0 -1.555037,47.220428,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s56</name>
+		<styleUrl>#failed32</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.527806876126795,47.2587816881619,0 -1.527732258493593,47.25887451461199,0 -1.525366418740778,47.25890003174649,0 -1.521254019626925,47.25878389709401,0 -1.519714316163119,47.25860119024559,0 -1.520013638091372,47.25774440314945,0 -1.519911,47.25758,0 -1.518949273981973,47.25729569459471,0 -1.517153,47.252289,0 -1.530387980033951,47.24066870300318,0 -1.530718828219919,47.24038516422638,0 -1.532434936647552,47.238034137608,0 -1.533432,47.236855,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s57</name>
+		<styleUrl>#4</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.556633,47.211601,0 -1.554841770843568,47.21211645031878,0 -1.55462046249693,47.21213864390859,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s58</name>
+		<open>1</open>
+		<description><![CDATA[Distance: 600&#160;m (environ 4 mn)<br/>Données cartographiques ©2012 Google]]></description>
+		<styleUrl>#roadStyle30</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					-1.5462,47.21645,0 -1.54651,47.21646,0 -1.54664,47.21642,0 -1.54677,47.21643999999999,0 -1.5469,47.21653,0 -1.54723,47.21692,0 -1.54723,47.21692,0 -1.54936,47.21949000000001,0 -1.54936,47.21949000000001,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>s59</name>
+		<open>1</open>
+		<description><![CDATA[Distance: 6,2&#160;km (environ 13 mn)<br/>Données cartographiques ©2012 Google]]></description>
+		<styleUrl>#roadStyle14</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					-1.53813,47.20505,0 -1.53813,47.20505,0 -1.53816,47.20493,0 -1.53866,47.20481,0 -1.53891,47.2047,0 -1.54058,47.20376000000001,0 -1.54248,47.20305,0 -1.54266,47.2029,0 -1.54297,47.20251,0 -1.54328,47.20233,0 -1.54328,47.20226000000001,0 -1.54321,47.20222,0 -1.54379,47.20141,0 -1.54385,47.20125,0 -1.54385,47.20125,0 -1.54396,47.20123000000001,0 -1.54397,47.20114,0 -1.54414,47.20105,0 -1.54438,47.20098,0 -1.54438,47.20098,0 -1.54453,47.20106,0 -1.54466,47.20105,0 -1.54474,47.20098999999999,0 -1.54475,47.20089,0 -1.54462,47.20081,0 -1.544515619777608,47.20080452313496,0 -1.544237532598174,47.2003419639063,0 -1.544237627876869,47.20033783666635,0 -1.54431,47.20032,0 -1.54432,47.20025,0 -1.54423,47.20018,0 -1.54416,47.20019,0 -1.54398,47.19996,0 -1.54278,47.19817999999999,0 -1.54261,47.19781999999999,0 -1.54252,47.19774,0 -1.54252,47.19774,0 -1.54303,47.19722,0 -1.54357,47.1965,0 -1.54504,47.195,0 -1.54514,47.19484,0 -1.54522,47.19477,0 -1.54575,47.19456999999999,0 -1.54575,47.19456999999999,0 -1.54581,47.19467,0 -1.54581,47.19467,0 -1.54602,47.19467999999999,0 -1.54625,47.19459,0 -1.54628,47.19454,0 -1.54628,47.19454,0 -1.54593,47.19406,0 -1.54589,47.19398,0 -1.54593,47.19384999999999,0 -1.54604,47.19369,0 -1.54656,47.19321,0 -1.54706,47.19278,0 -1.54718,47.19274,0 -1.54726,47.19257,0 -1.54768,47.19219,0 -1.54788,47.19191,0 -1.54815,47.1918,0 -1.54815,47.1918,0 -1.54834,47.19173000000001,0 -1.54836,47.19163,0 -1.54824,47.19152,0 -1.54807,47.19148000000001,0 -1.54786,47.19120000000001,0 -1.54707,47.18814999999999,0 -1.54707,47.18814999999999,0 -1.54715,47.18813,0 -1.54718,47.18804,0 -1.54711,47.18798,0 -1.54701,47.18797,0 -1.54615,47.18483,0 -1.54615,47.18483,0 -1.54434,47.17827,0 -1.54421,47.17797999999999,0 -1.54397,47.17714000000001,0 -1.54397,47.17714000000001,0 -1.54374,47.17566,0 -1.54356,47.17406,0 -1.542277125091065,47.16246214074571,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>s6</name>
+		<styleUrl>#14</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.546136,47.216335,0 -1.546108,47.21616,0 -1.546219,47.21595,0 -1.546682,47.215736,0 -1.547456,47.215511,0 -1.547868,47.21548099999999,0 -1.548235,47.215546,0 -1.548408,47.215607,0 -1.54955,47.215141,0 -1.55029,47.214981,0 -1.550939428964722,47.21458354566133,0 -1.551686545552977,47.21410668435113,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s60</name>
+		<styleUrl>#roadStyle70</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.539755692662207,47.20700160092801,0 -1.545711884493054,47.21432967224775,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s61</name>
+		<styleUrl>#roadStyle100</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.539762127835911,47.20700987540747,0 -1.538126172426071,47.20503970323258,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s62</name>
+		<open>1</open>
+		<description><![CDATA[Distance: 1,0&#160;km (environ 3 mn)<br/>Données cartographiques ©2012 Google]]></description>
+		<styleUrl>#roadStyle90</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					-1.545747934053201,47.21435987740855,0 -1.543753301420888,47.21195975051042,0 -1.543743008743608,47.21179841922494,0 -1.543588124563736,47.2117212628952,0 -1.543350355791625,47.21182685207867,0 -1.543329682261367,47.21187597096751,0 -1.542957842696538,47.21204474681305,0 -1.542483260889795,47.21208739466647,0 -1.542380162178737,47.21208048012784,0 -1.542328553027414,47.2121432190045,0 -1.541955682173851,47.21249889278555,0 -1.540029060655729,47.2134351527423,0 -1.539658402104117,47.21351927315507,0 -1.538793045218918,47.21334927726931,0 -1.53715,47.21313000000001,0 -1.53671,47.21305,0 -1.53671,47.21305,0 -1.53663,47.21301,0 -1.53647,47.2128,0 -1.53549,47.21079999999999,0 -1.5355,47.21061,0 -1.5355,47.21061,0 -1.53554,47.21051,0 -1.53536,47.21032000000001,0 -1.5353,47.21018000000001,0 -1.53525,47.20997,0 -1.53526,47.20965000000001,0 -1.53535,47.20931,0 -1.53585,47.20853,0 -1.53585,47.20853,0 -1.53607,47.20834,0 -1.53631,47.20823,0 -1.53631,47.20823,0 -1.53641,47.20818,0 -1.5364,47.20813,0 -1.53657,47.20790000000001,0 -1.53751,47.20711,0 -1.53805,47.20673,0 -1.53913,47.20668,0 -1.53913,47.20668,0 -1.53949,47.20711,0 -1.53949,47.20711,0 -1.53961,47.20712,0 -1.53972,47.20708,0 -1.53976,47.20701,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>s63</name>
+		<styleUrl>#4</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.56595,47.233349,0 -1.554973,47.22039,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s64</name>
+		<open>1</open>
+		<styleUrl>#</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.555542,47.24671599999999,0 -1.555809,47.24567,0 -1.556627,47.24370600000001,0 -1.556564,47.24305699999999,0 -1.556784,47.241135,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s65</name>
+		<open>1</open>
+		<styleUrl>#8</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.58586,47.237282,0 -1.58311,47.235249,0 -1.577064,47.232422,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s66</name>
+		<styleUrl>#5</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.577029465641087,47.23244796729719,0 -1.576767318369846,47.23240596269343,0 -1.57511461054641,47.23168549281571,0 -1.57478715505218,47.23144838715595,0 -1.574312641816565,47.23120733698023,0 -1.572541879038147,47.2296433767171,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s67</name>
+		<styleUrl>#failed26</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.54558977969653,47.19433659533606,0 -1.545604,47.19449599999999,0 -1.54484,47.19471,0 -1.54463,47.194778,0 -1.542300164960817,47.19762393776162,0 -1.542636513347639,47.19812691638199,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s68</name>
+		<description><![CDATA[Distance: 1,0&#160;km (environ 3 mn)<br/>Données cartographiques ©2012 Google]]></description>
+		<styleUrl>#roadStyle41</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					-1.569895663811305,47.21914742527706,0 -1.569839066095071,47.21931759039647,0 -1.570221748742682,47.22059064375763,0 -1.570027274369636,47.22073438395228,0 -1.56968,47.22074,0 -1.56366,47.22084,0 -1.56314,47.22088000000001,0 -1.56314,47.22088000000001,0 -1.56305,47.22085,0 -1.56268,47.22023,0 -1.56248,47.22018,0 -1.56206,47.22025,0 -1.56206,47.22025,0 -1.56185,47.21997,0 -1.5616,47.21941,0 -1.56142,47.21921,0 -1.56125,47.21906,0 -1.55929,47.21776999999999,0 -1.55929,47.21776999999999,0 -1.55925,47.2178,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>s69</name>
+		<open>1</open>
+		<styleUrl>#failed30</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.57274,47.206654,0 -1.572007995587109,47.20723044853614,0 -1.5702805554573,47.20794476182667,0 -1.566781806603583,47.20898191921076,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s7</name>
+		<styleUrl>#failed16</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.54975601504877,47.20882297265184,0 -1.550465,47.209534,0 -1.552165,47.211658,0 -1.552562,47.212234,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s70</name>
+		<styleUrl>#failed70</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.566763772222165,47.20893665178949,0 -1.566494204872103,47.20884326292219,0 -1.562605921736057,47.20471389166347,0 -1.56254087844891,47.20458656214824,0 -1.562577375050891,47.20446947850418,0 -1.562442048914834,47.2044602007398,0 -1.56236838000657,47.20450163011034,0 -1.562060740850441,47.20452476956791,0 -1.555295843115471,47.20521300440854,0 -1.554992011024834,47.20523360225735,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="261">
+		<name>s71</name>
+		<open>1</open>
+		<description><![CDATA[Distance: 7,2&#160;km (environ 10 mn)<br/>Données cartographiques ©2012 Google]]></description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					-1.55433,47.20513,0 -1.55433,47.20513,0 -1.55194,47.20396,0 -1.55178,47.20385,0 -1.55178,47.20385,0 -1.55177,47.20376999999999,0 -1.55226,47.20336,0 -1.55452,47.20167,0 -1.55649,47.20009999999999,0 -1.55649,47.20009999999999,0 -1.55664,47.20009000000001,0 -1.5567,47.19998,0 -1.55697,47.19995,0 -1.55842,47.19996,0 -1.55927,47.20011,0 -1.55997,47.20014,0 -1.56034,47.20014,0 -1.56146,47.2,0 -1.56146,47.2,0 -1.56164,47.19998,0 -1.56171,47.19992999999999,0 -1.56171,47.19984999999999,0 -1.56162,47.19978,0 -1.56162,47.19953,0 -1.56195,47.19789,0 -1.56195,47.19789,0 -1.56209,47.19705,0 -1.5624,47.1958,0 -1.56243,47.19570000000001,0 -1.56254,47.19567,0 -1.56258,47.19561,0 -1.56258,47.19551000000001,0 -1.56246,47.19544,0 -1.56248,47.19528999999999,0 -1.56287,47.19317999999999,0 -1.56299,47.19285,0 -1.56299,47.19285,0 -1.56313,47.19279,0 -1.56319,47.19272,0 -1.56705,47.19306000000001,0 -1.56854,47.19308,0 -1.56947,47.19305,0 -1.5707,47.19295000000001,0 -1.57205,47.19275,0 -1.574,47.19231,0 -1.574,47.19231,0 -1.58327,47.18902,0 -1.58432,47.18867000000001,0 -1.58565,47.1883,0 -1.58657,47.18809,0 -1.58702,47.18804,0 -1.58713,47.18804,0 -1.58719,47.18813,0 -1.58731,47.18819,0 -1.58761,47.18821,0 -1.58785,47.1881,0 -1.58796,47.18794,0 -1.5881,47.18786,0 -1.5886,47.18774,0 -1.58922,47.18766,0 -1.59596,47.18692999999999,0 -1.5971,47.18678,0 -1.59744,47.18677,0 -1.59767,47.18679,0 -1.59788,47.18686999999999,0 -1.59813,47.18686,0 -1.59841,47.18675999999999,0 -1.59851,47.18661,0 -1.59958,47.18618,0 -1.60105,47.18567000000001,0 -1.60105,47.18567000000001,0 -1.60265,47.18488,0 -1.60411,47.18397,0 -1.60493,47.18332,0 -1.605433422126722,47.18286407470185,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>s72</name>
+		<styleUrl>#msn_ylw-pushpin22</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.528483938181586,47.19370548196436,0 -1.528655864250857,47.19388639445952,0 -1.529062326363075,47.19446150394194,0 -1.529406907563678,47.19479170589506,0 -1.53279450631855,47.1989323311971,0 -1.5327782186072,47.19905950891672,0 -1.532919728677512,47.1991239814445,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s73</name>
+		<open>1</open>
+		<styleUrl>#failed500</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.542628784414276,47.19811501355833,0 -1.54332,47.1992,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s74</name>
+		<styleUrl>#msn_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.556569932652974,47.21162143684149,0 -1.55686704514812,47.21169611339857,0 -1.556954806628713,47.21176056108636,0 -1.557080803242705,47.21172415517362,0 -1.557696168188875,47.21148414539597,0 -1.558557826585608,47.21137040173798,0 -1.558710338457729,47.21140511327683,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s75</name>
+		<open>1</open>
+		<styleUrl>#8</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.54619,47.185108,0 -1.546918,47.188011,0 -1.546918,47.188091,0 -1.546986,47.188148,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s76</name>
+		<styleUrl>#failed41</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.546978713371963,47.18814636366177,0 -1.547135469227798,47.18812867340697,0 -1.547165364433259,47.18807560690422,0 -1.547963646787599,47.18805748946892,0 -1.549189897104097,47.18820743546885,0 -1.550926933799339,47.18863963270257,0 -1.551110950040144,47.18881383014751,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s77</name>
+		<open>1</open>
+		<styleUrl>#12</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.543359,47.199219,0 -1.544151186110254,47.20034741241623,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s78</name>
+		<open>1</open>
+		<styleUrl>#3</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.561621,47.19914200000001,0 -1.561345,47.19982499999999,0 -1.560941,47.200012,0 -1.559451,47.20008899999999,0 -1.558804,47.19994400000001,0 -1.558108,47.199902,0 -1.556764,47.199913,0 -1.556246,47.20021799999999,0 -1.551697,47.20367399999999,0 -1.551473035328916,47.20379813622944,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s79</name>
+		<styleUrl>#10</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.544126557301801,47.20033379992773,0 -1.544195046136615,47.20033468896846,0 -1.544309648036545,47.20030209228754,0 -1.545213650600351,47.20070740262976,0 -1.545317198364194,47.20079067749151,0 -1.545401962137625,47.20079033934294,0 -1.547234217347639,47.20169301665996,0 -1.551299760262791,47.20367907428274,0 -1.551462279238588,47.20380220556064,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s8</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.522962,47.23117100000001,0 -1.523333,47.230713,0 -1.524321,47.230007,0 -1.526527,47.228367,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s80</name>
+		<open>1</open>
+		<description><![CDATA[Distance: 1,5&#160;km (environ 3 mn)<br/>Données cartographiques ©2012 Google]]></description>
+		<styleUrl>#roadStyle6</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					-1.56253,47.19249,0 -1.56041,47.19241,0 -1.55903,47.19227,0 -1.55809,47.19222,0 -1.55688,47.19222,0 -1.55493,47.19234999999999,0 -1.55465,47.19231,0 -1.5545,47.19216,0 -1.55426,47.19213,0 -1.55407,47.19222,0 -1.55404,47.19234999999999,0 -1.55355,47.19252,0 -1.55284,47.19266,0 -1.54755,47.19402,0 -1.54692,47.19413,0 -1.54616,47.19436,0 -1.54616,47.19436,0 -1.54607,47.19420999999999,0 -1.54607,47.19420999999999,0 -1.54584,47.19420000000001,0 -1.54567,47.19427,0 -1.54561,47.19434,0 -1.54561,47.19434,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>s81</name>
+		<open>1</open>
+		<styleUrl>#failed28</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.547919,47.191532,0 -1.547879,47.191593,0 -1.54731,47.192341,0 -1.547023,47.192539,0 -1.5469,47.192677,0 -1.545492,47.194031,0 -1.545551334378401,47.1943422992792,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s82</name>
+		<open>1</open>
+		<description><![CDATA[Distance: 3,0&#160;km (environ 3 mn)<br/>Données cartographiques ©2012 Google]]></description>
+		<styleUrl>#roadStyle0</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					-1.60535,47.18278000000001,0 -1.60533,47.18281,0 -1.60533,47.18281,0 -1.604,47.18389,0 -1.60261,47.18479,0 -1.6017,47.18525000000001,0 -1.60088,47.18561,0 -1.60034,47.18583,0 -1.59885,47.18633999999999,0 -1.59854,47.18639999999999,0 -1.59801,47.18631000000001,0 -1.59778,47.18636,0 -1.59764,47.18646,0 -1.59758,47.18656000000001,0 -1.59691,47.18672,0 -1.5955,47.18691,0 -1.58976,47.18753000000001,0 -1.58827,47.18772999999999,0 -1.58785,47.18774,0 -1.58764,47.18763,0 -1.58737,47.18764,0 -1.58718,47.18772999999999,0 -1.58711,47.18782,0 -1.58485,47.18841,0 -1.58321,47.18894,0 -1.57407,47.19216,0 -1.57407,47.19216,0 -1.57247,47.19257,0 -1.57144,47.19276000000001,0 -1.57018,47.19292,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>s83</name>
+		<styleUrl>#1</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-1.546477045641805,47.21547442632531,0 -1.546760242235001,47.21582972439327,0 -1.54681157691283,47.21604042267599,0 -1.546627571644448,47.21631206809635,0 -1.546438276404924,47.21639418958641,0 -1.546136461611217,47.2163331543456,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s84</name>
+		<open>1</open>
+		<styleUrl>#failed1</styleUrl>
+		<LineString>
+			<coordinates>
+				-1.543353965978924,47.21176907412294,0 -1.54331,47.21175,0 -1.54649213423578,47.21546414389504,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>s85</name>
+		<open>1</open>
+		<description><![CDATA[Distance: 800&#160;m (environ 3 mn)<br/>Données cartographiques ©2012 Google]]></description>
+		<styleUrl>#roadStyle7</styleUrl>
+		<MultiGeometry>
+			<LineString>
+				<coordinates>
+					-1.54337,47.21173,0 -1.5434,47.21178,0 -1.5434,47.21178,0 -1.54328,47.21192,0 -1.54307,47.21202,0 -1.54273,47.21209,0 -1.54254,47.21209,0 -1.54254,47.21209,0 -1.5425,47.21208,0 -1.54261,47.21159,0 -1.54254,47.21115999999999,0 -1.54254,47.21115999999999,0 -1.54254,47.21109999999999,0 -1.54267,47.21098,0 -1.54359,47.21057,0 -1.54407,47.21049000000001,0 -1.54417,47.21052,0 -1.54447,47.21039,0 -1.54865,47.20898999999999,0 -1.54973,47.20881,0 
+				</coordinates>
+			</LineString>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>s9</name>
+		<Style>
+			<LineStyle>
+				<color>ffff3333</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<LineString>
+			<coordinates>
+				-1.535093,47.201637,0 -1.538642,47.206059,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>

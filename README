@@ -1,0 +1,13 @@
+Fichiers intermédiares pour l'utilisation de l'API temps de parcours de Nantes Métropole: http://data.nantes.fr/donnees/detail/?tx_icsoddatastore_pi1[page]=4&tx_icsoddatastore_pi1[uid]=46
+
+On a trois fichiers:
+- Repères temps parcours.kml : liste les repères des temps de parcours dans un fichier KML
+- pathToSegments.csv : effectuer le lien entre les itinéraires et leurs segments
+- Segments.kml : liste les segments dans un fichier KML.
+
+
+
+Ces fichiers sont sous licence ODbL:
+https://data.nantes.fr/fileadmin/nm_opendata/pdf/Licence_ODbL_VF_Nantes.pdf
+
+
